@@ -49,7 +49,7 @@ library
 
   hs-source-dirs:     src
 
-  exposed-modules:    Course
+  exposed-modules:
                       Course.Anagrams
                       Course.Applicative
                       Course.Cheque
@@ -67,7 +67,6 @@ library
                       Course.List
                       Course.ListZipper
                       Course.Monad
-                      Course.MonadTutorial
                       Course.MoreParser
                       Course.Optional
                       Course.Parser
